@@ -157,7 +157,7 @@ font-weight: bold;
 word-wrap: normal;
 border: rgb(243, 3, 3); 
 text-shadow: 2px 2px  #ffffff;
-font-size: 7vmax;
+font-size: 4.6vmax;
 
 -webkit-text-stroke-width: 1px;
 -webkit-text-stroke-color: rgb(247, 160, 160);
@@ -482,16 +482,6 @@ input {
   font-size: 16px;
 }
 
-button {
-  background: rgb(11, 91, 133);
-  border: none;
-  width: 200px;
-  padding: 1rem;
-  color: white;
-  margin-top: 10px;
-  cursor: pointer;
-  border-radius: 0.2rem;
-}
 
 label {
   display: block;
@@ -1077,7 +1067,7 @@ a.divlink
  {
  
   color: #f840e9;
-  z-index: 10;
+
   width: fit-content;
   padding-bottom: 140%;
   padding-right:240%;
@@ -1170,16 +1160,6 @@ input {
   font-size: 16px;
 }
 
-button {
-  background: rgb(11, 91, 133);
-  border: none;
-  width: 200px;
-  padding: 1rem;
-  color: white;
-  margin-top: 10px;
-  cursor: pointer;
-  border-radius: 0.2rem;
-}
 
 label {
   display: block;
@@ -1222,9 +1202,10 @@ textarea {
 }
 
 
-button {
+button.submitButton {
 
-  width: 200px;
+  width: 100px;
+  height: 40px;
   align-items: center;
   border-radius: 5%;
   box-shadow: 3px  3px #dba4ce;
