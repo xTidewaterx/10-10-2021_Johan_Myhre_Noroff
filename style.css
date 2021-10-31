@@ -1216,3 +1216,16 @@ button.submitButton {
   color: #000000;
   text-align: center;
 }
+
+.details-image {  width: 100px;
+  height: 40px;
+  align-items: center;
+  border-radius: 5%;
+  box-shadow: 3px  3px #dba4ce;
+  margin-bottom: 40px;
+
+  background-color: #d5cae2;
+  text-align: center;
+  color: #000000;
+  text-align: center;}
+
