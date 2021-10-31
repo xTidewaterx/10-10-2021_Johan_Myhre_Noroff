@@ -1237,14 +1237,28 @@ button.submitButton {
 
 
 
-.productImage {  width: 800px;
-  height: 800px;
+.productImage {  width: 50px;
+  height: 50px;
+  
+  box-shadow: 3px  3px #dba4ce;
+ 
+  background-color: #d5cae2;
+ 
+  color: #000000;
+
+      object-fit: cover;
+  display: center;
+   background-position: 50%;
+
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
 
 
 }
 
-.card{  width: 800px;
-  height: 800px;
+.card{  width: 100px;
+  height: 100px;
 
   border-radius: 5%;
   box-shadow: 3px  3px #dba4ce;
