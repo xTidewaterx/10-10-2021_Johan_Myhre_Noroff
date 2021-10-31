@@ -1250,6 +1250,7 @@ button.submitButton {
    background-position: 50%;
   float:left;
  
+  flex-direction: row;
 }
 
 .productImage img {  width: 200px;
@@ -1265,6 +1266,7 @@ button.submitButton {
       object-fit: cover;
   display: center;
    background-position: 50%;
+  
  
 }
 
