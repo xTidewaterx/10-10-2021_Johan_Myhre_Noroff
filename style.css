@@ -1315,3 +1315,7 @@ button.submitButton {
 
 }
 
+.museumProducts {align-items:center;
+  display:flex;
+margin: 0 auto;
+align-text: center;}
