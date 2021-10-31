@@ -1287,6 +1287,7 @@ button.submitButton {
       object-fit: cover;
   display: center;
    background-position: 20%;
+  text-align: center;
 
 }
 
