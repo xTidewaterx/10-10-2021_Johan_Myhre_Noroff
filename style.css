@@ -735,6 +735,25 @@ h3.openingtext2{
  
 }
 
+h3.openingtext3{
+
+
+  font-size: 3vw;
+  padding-top: 10%;
+   position: relative;
+   color: #64b4ff;
+   
+  text-align: center;
+  
+ right: 0;
+ left: 0;
+  margin: 0 auto;
+  padding-bottom: 15%;
+ 
+
+ 
+}
+
 .Visittt
 {
   display: table-cell;
