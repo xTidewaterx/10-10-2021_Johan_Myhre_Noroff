@@ -1276,7 +1276,7 @@ button.submitButton {
 
 }
 
-.£card{  width: 1000px;
+.card{  width: 1000px;
   height: 1000px;
 
   border-radius: 5%;
@@ -1293,6 +1293,7 @@ button.submitButton {
   display: flex;
   flex-direction: row;
   justify-content: center;
+  margin: 5%;
  
 }
 
