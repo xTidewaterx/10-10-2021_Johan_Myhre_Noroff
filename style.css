@@ -1316,6 +1316,6 @@ button.submitButton {
 }
 
 .museumProducts {align-items:center;
-  display:flex;
+  display:flexbox;
 margin: 0 auto;
 align-text: center;}
