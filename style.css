@@ -25,6 +25,13 @@ body {
  
  }
 
+
+.results {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;}
+
+
  .box {
   background-image: url(Images/scientific-2040795_1280.jpg);
   ;
@@ -918,8 +925,7 @@ p.socialProof1 {
 }
   
   
-.results {
- display: block;}
+
 h1.visitbb
 {
   font-family: 'Quicksand', sans-serif;
@@ -1284,8 +1290,3 @@ button.submitButton {
   margin: 5%;
  
 }
-
-.results {
-  display: flex;
-  flex-direction: row;
-  justify-content: center;}
