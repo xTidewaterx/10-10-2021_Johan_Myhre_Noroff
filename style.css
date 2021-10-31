@@ -1233,8 +1233,8 @@ button.submitButton {
 
 }
 
-.productImage {  width: 400px;
-  height: 400px;
+.productImage {  width: 200px;
+  height: 200px;
 
   border-radius: 5%;
   box-shadow: 3px  3px #dba4ce;
