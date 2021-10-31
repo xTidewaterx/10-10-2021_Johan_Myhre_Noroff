@@ -1288,6 +1288,8 @@ button.submitButton {
   display: center;
    background-position: 20%;
   text-align: center;
+  display: flex;
+  margin: 0 auto;
 
 }
 
