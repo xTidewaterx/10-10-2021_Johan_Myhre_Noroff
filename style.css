@@ -1217,8 +1217,8 @@ button.submitButton {
   text-align: center;
 }
 
-.details-image {  width: 100px;
-  height: 40px;
+.details-image {  width: 400px;
+  height: auto;
   align-items: center;
   border-radius: 5%;
   box-shadow: 3px  3px #dba4ce;
