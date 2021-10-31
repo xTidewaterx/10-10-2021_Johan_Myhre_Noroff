@@ -1249,3 +1249,19 @@ button.submitButton {
  
 }
 
+.productImage {  width: 900px;
+  height: 900px;
+
+  border-radius: 5%;
+  box-shadow: 3px  3px #dba4ce;
+ 
+  background-color: #d5cae2;
+ 
+  color: #000000;
+
+      object-fit: cover;
+  display: center;
+   background-position: 50%;
+ 
+}
+
