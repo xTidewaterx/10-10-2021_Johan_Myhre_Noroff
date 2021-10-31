@@ -16,6 +16,15 @@ body {
 
 }
 
+.card{  
+margin: 5%;
+color: #0078e1;
+background-color: #f1e1ff;
+  padding: 10px;
+ 
+}
+
+
 .navigation{
   padding-right: 20px;
   font-family: 'Hind Madurai', sans-serif;
@@ -924,6 +933,15 @@ p.socialProof1 {
   
 }
   
+  .card{  
+margin: 5%;
+color: #0078e1;
+background-color: #f1e1ff;
+padding: 0px;
+ 
+}
+
+  
   
 .results {
   display: flex;
@@ -1293,10 +1311,3 @@ button.submitButton {
 
 }
 
-.card{  
-margin: 5%;
-color: #0078e1;
-background-color: #f1e1ff;
-  padding: 10px;
- 
-}
