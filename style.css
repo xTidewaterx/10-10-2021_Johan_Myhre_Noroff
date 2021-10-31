@@ -1294,6 +1294,9 @@ button.submitButton {
 }
 
 .card{  
-  margin: 5%;
+margin: 5%;
+color: #0078e1;
+background-color: #f1e1ff;
+  padding: 10px;
  
 }
