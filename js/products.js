@@ -35,7 +35,7 @@ async function fetchGames() {
                                                 <div class="productImage" style="background-image: url(${flowers.images[i].src});"></div>
                                                 <div class="details">
                                                     <h4 class="name">${flowers.name}</h4> 
-                                                      <h4 class="name">${flowers.prices[i].price}</h4> 
+                                                      <h4 class="name">${flowers.prices.price}</h4> 
                                                                                                                                                                                                         
                                                 </div>
                                             </a>`;
