@@ -50,6 +50,6 @@ function createHtml(details) {
                                          style="background-image: url(${details.images[i].src});"></div>
                                          <h4 class="name">$${details.prices.price}</h4> 
                                 <div class="details-description">${details.description}</div>
-                                <time class="details-date">Released: ${details.released}</time>
+                               
                              `;
 }
