@@ -31,7 +31,7 @@ async function fetchGames() {
             var i;
             for (var i = 0; i <1; i++ )  //loop is essential
         
-            resultsContainer.innerHTML += `<a href="details.html?id=${flowers.id}" class="card">
+            resultsContainer.innerHTML += `<a href="productsdetails.html?id=${flowers.id}" class="card">
                                                 <div class="image" style="background-image: url(${flowers.images[i].src});"></div>
                                                 <div class="details">
                                                     <h4 class="name">${flowers.name}</h4>       
