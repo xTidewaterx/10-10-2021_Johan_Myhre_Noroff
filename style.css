@@ -1235,8 +1235,8 @@ button.submitButton {
 
 
 
-.productImage {  width: 900px;
-  height: 900px;
+.productImage {  width: 200px;
+  height: 200px;
 
   border-radius: 5%;
   box-shadow: 3px  3px #dba4ce;
@@ -1248,6 +1248,7 @@ button.submitButton {
       object-fit: cover;
   display: center;
    background-position: 50%;
+  float:left;
  
 }
 
