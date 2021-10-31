@@ -919,9 +919,7 @@ p.socialProof1 {
   
   
 .results {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;}
+ display: block;}
 h1.visitbb
 {
   font-family: 'Quicksand', sans-serif;
