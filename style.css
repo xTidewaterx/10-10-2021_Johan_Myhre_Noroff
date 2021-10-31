@@ -1218,16 +1218,17 @@ button.submitButton {
 }
 
 .details-image {  width: 400px;
-  height: 100%;
-  align-items: center;
+  height: 400px;
+
   border-radius: 5%;
   box-shadow: 3px  3px #dba4ce;
  
   background-color: #d5cae2;
  
   color: #000000;
-  text-align: center;
+
       object-fit: cover;
+  display: center;
 
 }
 
