@@ -49,5 +49,6 @@ function createHtml(details) {
                                 <div class="details-image" 
                                          style="background-image: url(${details.images[i].src});"></div>
                                 <div class="details-description">${details.description}</div>
-                                <time class="details-date">Released: ${details.released}</time>`;
+                                <time class="details-date">Released: ${details.released}</time>
+                                <h4 class="name">${flowers.prices.price}</h4> `;
 }
