@@ -925,6 +925,13 @@ p.socialProof1 {
 }
   
   
+.results {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;}
+
+  
+  
 
 h1.visitbb
 {
