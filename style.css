@@ -1233,8 +1233,10 @@ button.submitButton {
 
 }
 
-.productImage img {  width: 200px;
-  height: 200px;
+
+
+.productImage {  width: 900px;
+  height: 900px;
 
   border-radius: 5%;
   box-shadow: 3px  3px #dba4ce;
@@ -1249,8 +1251,8 @@ button.submitButton {
  
 }
 
-.productImage {  width: 900px;
-  height: 900px;
+.productImage img {  width: 200px;
+  height: 200px;
 
   border-radius: 5%;
   box-shadow: 3px  3px #dba4ce;
