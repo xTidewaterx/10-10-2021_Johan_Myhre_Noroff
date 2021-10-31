@@ -1276,3 +1276,8 @@ button.submitButton {
   justify-content: center;
  
 }
+
+.results {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;}
